@@ -1,0 +1,14 @@
+# Binaries and object files
+*.o
+*.a
+*.so
+
+# Output of the go coverage tool
+*.out
+
+# IDE and editor files
+.vscode/
+*.swp
+*.swo
+*.idea/
+*.DS_Store
